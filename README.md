@@ -1,7 +1,7 @@
 # My Ethics Manifesto
 
 ## Core Principles
-- Leave the client with more available time than they had
+- Leave both client and coworkers with more available time than they had
 - Increase key performance indicators for those I work with
 - Underpromise but over deliver 
 - Communicate road blocks
@@ -9,7 +9,7 @@
 - Be mindful of how my work can be misused for crime and prejudice
 - Seek out bias and compensate accordingly 
 
-### Leave the client with more available time than they had
+### Leave both client and coworkers with more available time than they had
 My clients, superiors, and coworkers should have less things to manage when I’ve worked with them, not more. Applied data science should be more effective at consolidating client responsibilities and not increase them.
 
 ### Increase key performance indicators for those I work with
